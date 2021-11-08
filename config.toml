@@ -1,4 +1,4 @@
 baseURL = 'https://memerarycriticism.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Memerary Criticism'
 theme = "hugo-clarity"

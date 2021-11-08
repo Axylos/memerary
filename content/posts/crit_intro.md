@@ -1,0 +1,14 @@
+---
+title: "The Aesthetics of Meme Art"
+date: 2021-11-07T18:49:19-05:00
+draft: true
+---
+
+## Why Treat Memes as Art?
+
+The creation, viewing, and discussion of visual memes, typically found on social media platforms, has matured greatly in recent decades.  It is tempting to skip over the formal aesthetic qualities of the meme, viewing it instead as an outburst from the flux of its peculiar cultural moment, lacking any referential content or significance far beyond its own immediate existence.  Even within this narrow perspective, the meme is treated as a bare and atomic visual expression, devoid of constituent parts or analyzable structures that support its intended task.  While some meme "templates" enjoy greater longevity over several years, scant attention has been paid to the formal aesthetic characteristics or developed conventions of meme art; what little is said about the meme as an aesthetic object remains at the surface and rarely meditates on the motivation or impact of such characteristics.  The robust development of meme art prompts us to reconsider whether we may learn more from this highly dynamic and quintessentially contemporary art form if it were treated as a stable and studiable art tradition, highly specific to its time and surrounding cultural context.  Aside from observing the development and use of numerous aesthetic devices and motifs that pervade meme art, it is also worth reflecting on why such aesthetic devices make their appearance in memes at all and what underlying experience their authors are desperately attempting to transmit through them.  Memes certainly do include the agency, context, and behavior of their authors and those who publish them in online communities, but when viewed as an aesthetic artifact asserting that the meme [emerges from multiple
+sites, agents and ecologies, which dynamically interlock to form networks that propel its coming into being](file:///Users/dtalley/Downloads/23055-Article%20Text-52748-1-10-20160126.pdf) covers up more than it reveals.  While fascinating in its own right, the behavioral aspects of memes do not excuse us from also inspecting their formal visual characteristics and techniques.  What may have began as an elevated forum for sharing the kinds of inane and ephemeral doodles characteristic of school desk grafiti, the conventions and devices found in meme art now far surpass [a deliberately crude or primitive style](https://www.theatlantic.com/technology/archive/2014/12/internet-ugly-and-the-aesthetic-of-failing-on-purpose/384023/).  Taking meme art seriously outside of its accidental sources and meandering pathways through our culture could shed light on a distinct and rich cultural tradition that, despite its frenzied development in a compressed timescale, uniquely opens up a well-recognized yet rarely communicable experience that undergirds a particular strain of meme art.
+
+## Authentic and Cheerful Nihilism
+
+
